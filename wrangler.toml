@@ -1,0 +1,6 @@
+name = "omnivoice-research"
+main = "importer.py"
+compatibility_date = "2026-09-27"
+
+[vars]
+ENVIRONMENT = "production"
