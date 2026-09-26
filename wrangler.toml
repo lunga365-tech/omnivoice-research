@@ -1,6 +1,6 @@
-name = "omnivoice-research"
+name = "omnivoice-app"
 main = "importer.py"
-compatibility_date = "2026-09-27"
+compatibility_date = "2026-09-26"
 compatibility_flags = ["python_workers"]
 
 [vars]
