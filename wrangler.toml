@@ -1,6 +1,7 @@
 name = "omnivoice-research"
 main = "importer.py"
 compatibility_date = "2026-09-27"
+compatibility_flags = ["python_workers"]
 
 [vars]
 ENVIRONMENT = "production"
